@@ -1,0 +1,13 @@
+{
+"key0": "value",
+"key1": 7,
+"key2": 38.91,
+"key3": true,
+"key4": "false",
+"key5": ["alpha", "wiskey"],
+"key6": [{"key6.1": "some"}, {"key6.2": "thing"}],
+"key7": [{"key7.1": "single"}, {"key7.2.1": "doubleA", "key7.2.2": "doubleB"}],
+"key8": ["lorem", "ipsum", {"key8.1": "sit"}],
+"key9": ["lorem", {"key9.1.1": "abc", "key9.1.2": "xyz"}, "ipsum", {"key9.2": "cad"}],
+"args": {"fn_modifier": "argument value"}
+}
