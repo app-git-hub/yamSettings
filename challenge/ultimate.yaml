@@ -1,0 +1,28 @@
+-- ultimate.json
+	key0: "value"
+	key1: 7
+	key2: 38.91
+	key3: true
+	key4: "false"
+	key5:
+	  - "alpha"
+	  - "whiskey"
+	key6:
+	  - key6_1: "some"
+	  - key6_2: "thing"
+	key7:
+	  - key7_1: "single"
+	  - key7_2_1: "doubleA"
+		key7_2_2: "doubleB"
+	key8:
+	  - "lorem"
+	  - "ipsum"
+	  - key8_1: "sit"
+	key9:
+	  - "lorem"
+	  - key9_1_1: "abc"
+		key9_1_2: "xyz"
+	  - "ipsum"
+	  - key9_2: "cad"
+	args:
+		fn_modifier: "argument vaue"
